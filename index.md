@@ -1,3 +1,3 @@
 ---
-title: Welcome to my blog!
+GH Pages: Welcome to my test!
 ---
